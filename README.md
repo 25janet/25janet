@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Data engineering at ALX .**
 - I'm currently building projects on **Cloud solutions.**
 
-- 📫 How to reach me **jayshiru6@gmail.com**
+- 📫 How to reach me **janetjohn3078@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
