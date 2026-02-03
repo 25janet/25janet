@@ -2,7 +2,8 @@
 <h3 align="center">A passionate and aspiring data engineering and cloud computing enthusiast, currently a student at Cooperative University, Karen Kenya</h3>
 
 
-- 🌱 I’m currently learning **Data engineering.**
+- 🌱 I’m currently learning **Data engineering at ALX .**
+- I'm currently building projects on **Cloud solutions.**
 
 - 📫 How to reach me **jayshiru6@gmail.com**
 
