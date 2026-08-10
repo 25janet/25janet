@@ -245,5 +245,15 @@ My goal is to become a **skilled DevOps Engineer** capable of designing reliable
 ### ⚡ Currently
 
 **Learning → Building → Troubleshooting → Automating → Improving**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=25janet&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=25janet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=25janet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=25janet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 </div>
