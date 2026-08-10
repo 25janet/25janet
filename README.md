@@ -1,70 +1,249 @@
-<h1 align="center">Hi 👋, I'm Janet Wanjiru</h1>
-<h3 align="center">A passionate and aspiring data engineering and cloud computing enthusiast, currently a student at Cooperative University, Karen Kenya</h3>
+<div align="center">
 
+# 👋 Hi, I'm Shiru
 
-- 🌱 I’m currently learning **Data engineering at ALX .**
-- I'm currently building projects on **Cloud solutions.**
+### 💻 Computer Science Student | 🚀 Aspiring DevOps Engineer | ☁️ Cloud & Automation Enthusiast
 
-- 📫 How to reach me **janetjohn3078@gmail.com**
+<p><em>Building • Automating • Deploying • Learning</em></p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shiru_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiru_jay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/janet-john-741961336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janet-john-741961336/" height="30" width="40" /></a>
-<a href="https://medium.com/@jayshiru6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayshiru6" height="30" width="40" /></a>
+---
+
+## 👩‍💻 About Me
+
+I am a **Computer Science student** passionate about **DevOps Engineering, Cloud Computing, Automation, and Software Engineering**.
+
+I am currently focused on understanding how modern software systems are developed, automated, deployed, and maintained. My goal is to build strong practical skills and grow into a **DevOps Engineer** capable of working with cloud infrastructure, CI/CD pipelines, containers, and scalable systems.
+
+---
+
+## 🚀 What I'm Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,java,mysql" alt="Languages" />
 </p>
 
-<h3 align="left">Languages, Tools & Platforms:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+### DevOps & Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=25janet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=25janet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=25janet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Containers & Orchestration
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=25janet&" alt="25janet" /></p>
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" alt="Cloud" />
+</p>
+
+### Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring" />
+</p>
+
+---
+
+## 🔨 Projects
+
+### 🔀 Git & GitLab DevOps Workflow
+
+A hands-on project focused on understanding professional Git workflows and collaboration.
+
+**Key areas:**
+* Repository initialization and cloning
+* Branching and merging
+* Git stash and recovery
+* Interactive rebase
+* Commit management and squashing
+* Remote repositories
+* Merge conflict resolution
+* GitLab collaboration and protected branches
+
+**Technologies:** `Git` `GitLab`
+
+---
+
+### 🐳 Containerized Application
+
+A practical project focused on packaging an application into a container and managing its runtime environment.
+
+**Key areas:**
+* Dockerfiles
+* Docker images
+* Container management
+* Environment variables
+* Port mapping
+* Networking
+* Docker Compose
+
+**Technologies:** `Docker` `Python`
+
+---
+
+### ⚙️ CI/CD Pipeline
+
+A project focused on automating the software development and deployment workflow.
+
+<div align="center">
+
+`Code → GitLab → Build → Test → Docker → Deploy`
+
+</div>
+
+**Key areas:**
+* GitLab CI/CD
+* Automated builds
+* Testing
+* Docker image creation
+* Pipeline stages
+* Deployment automation
+
+**Technologies:** `GitLab CI/CD` `Docker`
+
+---
+
+### ☁️ AWS Cloud Deployment
+
+A project focused on deploying and managing applications within AWS cloud infrastructure.
+
+**Key areas:**
+* EC2
+* IAM
+* VPC
+* Security Groups
+* S3
+* CloudWatch
+* Application deployment
+
+**Technologies:** `AWS` `Linux`
+
+---
+
+### 🏗️ Infrastructure as Code with Terraform
+
+A project focused on provisioning cloud infrastructure through code rather than manual configuration.
+
+**Key areas:**
+* Terraform configuration
+* Providers and resources
+* Variables and outputs
+* State management
+* Infrastructure provisioning
+* AWS resource automation
+
+**Technologies:** `Terraform` `AWS`
+
+---
+
+### ☸️ Kubernetes Application Deployment
+
+A project focused on deploying and managing containerized applications using Kubernetes.
+
+**Key areas:**
+* Pods
+* Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Namespaces
+* Scaling
+* Application updates
+
+**Technologies:** `Kubernetes` `Docker` `Helm`
+
+---
+
+### 📊 Monitoring & Observability
+
+A project focused on monitoring applications and infrastructure and understanding system performance.
+
+**Key areas:**
+* Metrics collection
+* Dashboards
+* Application monitoring
+* Infrastructure monitoring
+* Alerts
+* Performance analysis
+
+**Technologies:** `Prometheus` `Grafana`
+
+---
+
+## 📚 My DevOps Journey
+
+I am building my DevOps skills through **hands-on projects, internship experience, cloud labs, technical experimentation, and continuous learning**.
+
+I believe the best way to learn DevOps is:
+
+<div align="center">
+
+### 🏗️ Build → 💥 Break → 🔧 Troubleshoot → ⚙️ Automate → 📈 Improve
+
+</div>
+
+Each project represents a step toward understanding how modern applications move from **development to production**.
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a **skilled DevOps Engineer** capable of designing reliable development and deployment workflows, automating infrastructure, managing cloud environments, and improving the reliability and scalability of applications.
+
+### Areas of Focus
+
+<div align="center">
+
+`Cloud Infrastructure` • `CI/CD` • `Automation` • `Kubernetes` • `Infrastructure as Code` • `DevSecOps`
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/janet-john-741961336/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/25janet" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Currently
+
+**Learning → Building → Troubleshooting → Automating → Improving**
+
+</div>
